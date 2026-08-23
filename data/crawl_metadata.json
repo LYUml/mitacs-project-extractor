@@ -1,0 +1,18 @@
+{
+  "matching_projects_on_site": 3359,
+  "matching_pages_on_site": 336,
+  "projects_exported": 3359,
+  "page_size": 10,
+  "fields": [
+    "project_id",
+    "title",
+    "introduction",
+    "faculty_supervisor",
+    "faculty_province",
+    "faculty_university",
+    "faculty_campus",
+    "project_location",
+    "language",
+    "preferred_start_date"
+  ]
+}
