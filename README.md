@@ -16,5 +16,5 @@ mitacs-project-extractor/
 ├── mitacs_extractor.py
 ├── requirements.txt
 ├── README.md
-└── README.zh-CN.md
+└── README.md
 ```
