@@ -1,7 +1,5 @@
 # Mitacs Project Extractor
 
-[中文](README.zh-CN.md)
-
 Extracts Mitacs Globalink project cards into clean CSV and JSON files. It supports the filters used by the website and reads ten projects per page.
 
 ```bash
